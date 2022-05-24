@@ -1,0 +1,20 @@
+body {
+    color: #39a6b2; font-family: Helvetica , Arial, sans-serif;
+}
+/* this is how to comment in CSS! */
+
+/*Applies 20px to every side(top, right, bottom, left) */
+header {
+    padding: 10px 15px 20px 25px;
+    background-color: #39a6b2;
+}
+header h1 {
+    font-weight: bold; 
+    font-size:36px;
+    color: #fce138;
+    margin:0;
+}
+
+header a {
+    color: #fce138 ; 
+}
